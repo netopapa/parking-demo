@@ -284,7 +284,7 @@ var AppRoutes = [
 /* unused harmony export WS_URL */
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Constant; });
 // export const WS_URL = 'http://localhost:8080/prk/';
-var WS_URL = 'http://fast-cliffs-43524.herokuapp.com/prk/';
+var WS_URL = 'https://fast-cliffs-43524.herokuapp.com/prk/';
 var Constant = {
     BASE_URL: WS_URL + 'rest/',
     CAR: 'vehicle/',
